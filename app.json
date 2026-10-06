@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Cookly",
+    "slug": "cookly",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "platforms": ["android", "ios", "web"],
+    "web": { "bundler": "metro" }
+  }
+}

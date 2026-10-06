@@ -1,0 +1,9 @@
+node_modules/
+.expo/
+dist/
+npm-install.log
+npm-ci.log
+report_render/
+.temp-*/
+*.tgz
+.setup-temp/
